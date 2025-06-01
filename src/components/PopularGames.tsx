@@ -8,7 +8,7 @@ const PopularGames = () => {
       description:
         "Футуристическая RPG в открытом мире Night City. Станьте киберпанком и исследуйте мегаполис будущего с передовыми технологиями и опасными корпорациями.",
       imageUrl:
-        "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=300&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop&auto=format&q=80",
       genre: "RPG / Экшен",
       rating: "9.0",
       releaseYear: "2020",
@@ -19,7 +19,7 @@ const PopularGames = () => {
       description:
         "Эпическое фэнтези-приключение Геральта из Ривии. Охотьтесь на монстров, принимайте сложные решения и исследуйте огромный открытый мир.",
       imageUrl:
-        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&h=300&fit=crop&auto=format&q=80",
       genre: "RPG / Фэнтези",
       rating: "9.8",
       releaseYear: "2015",
@@ -30,7 +30,7 @@ const PopularGames = () => {
       description:
         "Криминальная сага в Лос-Сантосе. Грабьте банки, участвуйте в гонках и исследуйте огромный открытый мир с тремя уникальными персонажами.",
       imageUrl:
-        "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400&h=300&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400&h=300&fit=crop&auto=format&q=80",
       genre: "Экшен / Криминал",
       rating: "9.5",
       releaseYear: "2013",
@@ -41,7 +41,7 @@ const PopularGames = () => {
       description:
         "Безграничный мир кубиков для творчества и выживания. Стройте, исследуйте, сражайтесь и создавайте свои уникальные миры в этой легендарной песочнице.",
       imageUrl:
-        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=400&h=300&fit=crop&auto=format&q=80",
       genre: "Песочница / Выживание",
       rating: "9.2",
       releaseYear: "2011",
@@ -52,7 +52,7 @@ const PopularGames = () => {
       description:
         "Королевская битва с уникальной механикой строительства. Сражайтесь с 99 игроками, стройте укрытия и станьте последним выжившим на острове.",
       imageUrl:
-        "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=400&h=300&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=400&h=300&fit=crop&auto=format&q=80",
       genre: "Battle Royale",
       rating: "8.5",
       releaseYear: "2017",
@@ -63,7 +63,7 @@ const PopularGames = () => {
       description:
         "Вестерн-эпос о банде Ван дер Линде в Америке конца 19 века. Невероятно детализированный мир Дикого Запада с захватывающей историей.",
       imageUrl:
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1544898854-7df75c79ab95?w=400&h=300&fit=crop&auto=format&q=80",
       genre: "Экшен / Вестерн",
       rating: "9.7",
       releaseYear: "2018",
